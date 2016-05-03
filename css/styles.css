@@ -54,28 +54,30 @@ body {
 }
 
 /* Imagery */
-.image-1 {
+.imagery-1 {
   background: url("https://scontent.xx.fbcdn.net/v/t1.0-9/11796255_1078848808793800_6707481294352519285_n.jpg?oh=4e11156a41ea8a12f5e49fc83103a995&oe=579FF0FF");
 }
 
-.image-2 {
+.imagery-2 {
   background: url("https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/408975_352730118072343_353744834_n.jpg?oh=dce9b9fe8cd6ed507ef8c9fccc71f49a&oe=57E247AB");
 }
 
-.image-3 {
+.imagery-3 {
   background: url("https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/35391_139150929430264_7489452_n.jpg?oh=566ac68d932ceb20ec3748289af3e584&oe=57B19FEB");
 }
 
-.image-4 {
+.imagery-4 {
   background: url("https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/35695_139151539430203_1269016_n.jpg?oh=ca8d8e622355592b197e974ed02da75e&oe=57E681E2");
 }
 
-.image-5 {
+.imagery-5 {
   background: url("https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/406479_352776584734363_1131501759_n.jpg?oh=e0bff69be7b48395abbe8ee60e72a55c&oe=579C886D");
 }
 
 /* Icons */
-
+.icon-1, .icon-2, .icon-3, .icon-4, .icon-5 {
+  border: none;
+}
 
 /* Navigation */
 
