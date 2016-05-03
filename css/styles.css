@@ -4,7 +4,23 @@
 
 /* Color Palette */
 .color-1 {
-  background: 'rgb(0, 64, 18)';
+  background: #004012;
+}
+
+.color-2 {
+  background: #E81000;
+}
+
+.color-3 {
+  background: #FFBB1A;
+}
+
+.color-4 {
+  background: #FFFFFF;
+}
+
+.color-5 {
+  background: #3399FF;
 }
 
 /*.color-2 {
