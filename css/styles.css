@@ -46,7 +46,8 @@ body {
 
 /* Icons */
 .icon-1, .icon-2, .icon-3, .icon-4, .icon-5 {
-  border: none;
+  border: white;
+  border-radius: 30%;
 }
 
 /* Navigation */
