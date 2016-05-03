@@ -28,29 +28,9 @@ body {
 }
 
 /* Textures or Patterns*/
-.pattern-1 {
-  background: url("http://3.bp.blogspot.com/-TVbKFj-hMIg/TqWvUFWutRI/AAAAAAAABSw/2MGy2eCy7MM/s1600/snowy+owl.jpg) no-repeat;
-  background-size: 200px;
-}
-
-.pattern-2 {
-  background: url("http://useppa.com/wp-content/uploads/2014/01/free-paper-texture-30c.png") no-repeat;
-  background-size: 200px;
-}
-
-.pattern-3 {
-  background: url("http://www.psdgraphics.com/file/lego-bricks-pattern.jpg") no-repeat;
-  background-size: 200px;
-}
-
-.pattern-4 {
-  background: url("http://www.planit3d.com/source/texture_files/alien/skin1.jpg") no-repeat;
-  background-size: 200px;
-}
-
-.pattern-5 {
-  background: url("http://www.photos-public-domain.com/wp-content/uploads/2015/01/dimpled-ice-on-glass-texture-colorized-white.jpg") no-repeat;
-  background-size: 200px;
+.pattern-1, .pattern-2, .pattern-3, .pattern-4, .pattern-5 {
+  width: 200px;
+  height: 200px;
 }
 
 /* Imagery */
