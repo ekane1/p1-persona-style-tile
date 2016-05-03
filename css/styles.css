@@ -25,23 +25,23 @@
 
 /* Textures or Patterns*/
 .pattern-1 {
-  background: url("http://3.bp.blogspot.com/-TVbKFj-hMIg/TqWvUFWutRI/AAAAAAAABSw/2MGy2eCy7MM/s1600/snowy+owl.jpg");
+  background: url("http://3.bp.blogspot.com/-TVbKFj-hMIg/TqWvUFWutRI/AAAAAAAABSw/2MGy2eCy7MM/s1600/snowy+owl.jpg") no-repeat;
 }
 
 .pattern-2 {
-  background: url("http://useppa.com/wp-content/uploads/2014/01/free-paper-texture-30c.png");
+  background: url("http://useppa.com/wp-content/uploads/2014/01/free-paper-texture-30c.png") no-repeat;
 }
 
 .pattern-3 {
-  background: url("http://www.psdgraphics.com/file/lego-bricks-pattern.jpg");
+  background: url("http://www.psdgraphics.com/file/lego-bricks-pattern.jpg") no-repeat;
 }
 
 .pattern-4 {
-  background: url("http://www.planit3d.com/source/texture_files/alien/skin1.jpg");
+  background: url("http://www.planit3d.com/source/texture_files/alien/skin1.jpg") no-repeat;
 }
 
 .pattern-5 {
-  background: url("http://www.photos-public-domain.com/wp-content/uploads/2015/01/dimpled-ice-on-glass-texture-colorized-white.jpg");
+  background: url("http://www.photos-public-domain.com/wp-content/uploads/2015/01/dimpled-ice-on-glass-texture-colorized-white.jpg") no-repeat;
 }
 
 /* Imagery */
