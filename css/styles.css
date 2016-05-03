@@ -51,6 +51,12 @@ body {
 }
 
 /* Navigation */
+nav a:link {
+  color: white;
+}
 
+nav a:hover {
+  color: red;
+}
 
 /* Typography */
