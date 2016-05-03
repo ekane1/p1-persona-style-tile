@@ -60,7 +60,11 @@ nav a:hover {
 }
 
 /* Typography */
+h3 {
+  font-family: 'Arial Black', sans-serif;
+}
+
 p {
-  font-size: 14px;
+  font-size: 18px;
   font-family: 'Vrinda', sans-serif;
 }
