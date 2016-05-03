@@ -4,7 +4,7 @@
 
 /* Color Palette */
 .color-1 {
-  background-color: #004012;
+  background: #004012;
 }
 
 .color-2 {
@@ -22,14 +22,69 @@
 .color-5 {
   background: #3399FF;
 }
-/* Textures or Patterns*/
 
+/* Textures or Patterns*/
+.pattern-1 {
+  background: url("http://www.psdgraphics.com/file/lego-bricks-pattern.jpg");
+}
+
+.pattern-2 {
+  background: url("http://3.bp.blogspot.com/-TVbKFj-hMIg/TqWvUFWutRI/AAAAAAAABSw/2MGy2eCy7MM/s1600/snowy+owl.jpg");
+}
+
+.pattern-3 {
+  background: url("https://texturefabrik.files.wordpress.com/2013/05/29-05-13_paper06.jpg");
+}
+
+.pattern-4 {
+  background: url("http://blog.spoongraphics.co.uk/wp-content/uploads/2015/mandala-pattern/mandala-pattern.png");
+}
+
+.pattern-5 {
+  background: url("http://41.media.tumblr.com/fa70785eb2377622c218b723a50fdd6e/tumblr_mmg1rnYG241rnqn2ao1_500.jpg");
+}
 
 /* Imagery */
+.imagery-1 {
+  
+}
 
+.imagery-2 {
+  
+}
+
+.imagery-3 {
+  
+}
+
+.imagery-4 {
+  
+}
+
+.imagery-5 {
+  
+}
 
 /* Icons */
+.icon-1 {
+  
+}
 
+.icon-2 {
+  
+}
+
+.icon-3 {
+  
+}
+
+.icon-4 {
+  
+}
+
+.icon-5 {
+  
+}
 
 /* Navigation */
 
